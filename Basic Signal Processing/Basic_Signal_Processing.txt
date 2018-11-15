@@ -1,0 +1,10 @@
+>> % Continuous periodic and random signal
+>> % Continuous and discrete signal
+>> % Impulse Signal --
+>> % Calculate Power and to plot Power spectral density---
+>> % Convolution | Linear | Circular
+>> % Cross & Auto Correlation 
+>> % DFT fourier transform of speech signal
+>> % Spectrogram
+>> % Power spectral Analysis
+>> % addition of signals with different frequencies
